@@ -1,0 +1,4 @@
+cryptography
+sqlite3
+pyperclip
+colorama
