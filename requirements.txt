@@ -1,4 +1,5 @@
-cryptography
 sqlite3
 pyperclip
-colorama
+ttkbootstrap
+Pillow
+cryptography
